@@ -1,2 +1,3 @@
-# hello-world
-The greatest and best
+# goodbye-world
+Rest in pepperoni
+You will be missed
